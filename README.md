@@ -1,8 +1,5 @@
 # Awesome Neon
 
-[![docs.rs](https://docs.rs/leptos/badge.svg)](https://neonevm.org/docs/quick_start)
-[![Discord](https://discord.gg/pWNumfA6)](https://discord.gg/neonevm)
-
 [Website](https://subsquid.io) | [Docs](https://docs.rs/leptos/badge.svg) | [Discord](https://discord.gg/subsquid)
 
 # Awesome Neon
