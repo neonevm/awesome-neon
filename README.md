@@ -14,8 +14,7 @@ A collection of awesome development resources, boilerplates, and technical docum
 - [Neon](#neon)
 - [Reading Material](#reading-material)
 - [Videos and Workshops](#videos-and-workshops)
-- [App Examples and Boilerplates](#app-examples-and-boilerplates)
-- [Educational Hub](#educational-hub)
+- [App Examples and Tutorials](#app-examples-and-tutorials)
 - [Community and Socials](#community-and-socials)
 - [Ecosystem](#ecosystem)
 
@@ -36,7 +35,7 @@ Neon is a parallelized Ethereum Virtual Machine on Solana. The platform allows d
 - [Getting Started with Neon using Hardhat](https://www.youtube.com/watch?v=b9MxjbZ_DAU&t)
 - [Neon Pass Tutorial](https://www.youtube.com/watch?v=3PVNr4shqjM)
 
-## App Examples and Tutorial
+## App Examples and Tutorials
 
 - [Crosschain Communication with Hyperlane P1](https://neonevm.org/blog/effortless-cross-chain-communication-with-neonevm-hyperlane-and-solana_s-speed_part-1)
 - [Crosschain Communication with Hyperlane P2](https://neonevm.org/blog/effortless-cross-chain-communication-with-neonevm-hyperlane-and-solana_s-speed_part-2)
