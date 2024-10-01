@@ -2,8 +2,6 @@
 
 [Website](https://subsquid.io) | [Docs](https://docs.rs/leptos/badge.svg) | [Discord](https://discord.gg/subsquid)
 
-# Awesome Neon
-
 A collection of awesome development resources, boilerplates, and technical documentation related to Neon.
 
 ## Table of Contents
