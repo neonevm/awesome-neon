@@ -37,6 +37,8 @@ Neon is a parallelized Ethereum Virtual Machine on Solana. The platform allows d
 
 ## Community and Socials
 
+- [Telegram](https://t.me/+X9WdPtgD7ZViYzQy)
+- [Join Builder's Chat](https://guild.xyz/neon-evm)
 - [Twitter](https://x.com/Neon_EVM)
 - [YouTube](https://www.youtube.com/@NeonEVM/videos)
 - [Blog](https://neonevm.org/blog)
